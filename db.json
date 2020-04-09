@@ -19,24 +19,24 @@
       "name": "Button color change",
       "userID": 1,
       "hours": 2,
-      "startdate": "2020-03-20",
-      "enddate": "2020-03-21"
+      "startDate": "2020-03-20",
+      "endDate": "2020-03-21"
     },
     {
       "id": 2,
       "name": "Create content",
       "userID": 2,
       "hours": 12,
-      "startdate": "2020-03-20",
-      "enddate": "2020-03-21"
+      "startDate": "2020-03-20",
+      "endDate": "2020-03-21"
     },
     {
-      "id": 3
+      "id": 3,
       "name": "Image upload feature",
       "userID": 2,
       "hours": 18,
-      "startdate": "2020-03-20",
-      "enddate": "2020-03-21"
+      "startDate": "2020-03-20",
+      "endDate": "2020-03-21"
     }
   ]
 }
