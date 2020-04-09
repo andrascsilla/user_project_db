@@ -4,39 +4,39 @@
       "id": 1,
       "name": "John Doe",
       "email": "john.doe@example.com",
-      "workedHours": 0
+      "workedhours": 0
     },
     {
       "id": 2,
       "name": "Jane Doe",
       "email": "jane.doe@example.com",
-      "workedHours": 0
+      "workedhours": 0
     }
   ],
   "projects": [
     {
-      "id": 1
+      "id": 1,
       "name": "Button color change",
-      "userId: 1,
+      "userid: 1,
       "hours": 2,
-      "startDate": "2020-03-20",
-      "endDate": "2020-03-21"
+      "startdate": "2020-03-20",
+      "enddate": "2020-03-21"
     },
     {
       "id": 2,
       "name": "Create content",
-      "userId: 2,
+      "userid: 2,
       "hours": 12,
-      "startDate": "2020-03-20",
-      "endDate": "2020-03-21"
+      "startdate": "2020-03-20",
+      "enddate": "2020-03-21"
     },
     {
       "id": 3
       "name": "Image upload feature",
-      "userId: 2,
+      "userid: 2,
       "hours": 18,
-      "startDate": "2020-03-20",
-      "endDate": "2020-03-21"
+      "startdate": "2020-03-20",
+      "enddate": "2020-03-21"
     }
   ]
 }
